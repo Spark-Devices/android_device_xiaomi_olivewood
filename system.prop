@@ -133,3 +133,9 @@ ro.zram.periodic_wb_delay_hours=24
 
 # Zygote Preforking
 persist.device.config.runtime_native.usap_pool_enabled=true
+
+# Spark-OS
+ro.spark.device.name=Redmi 8A Dual
+ro.spark.group.url=https://t.me/Redmi8AOfficial
+ro.spark.maintainer=JaswalAshish
+ro.spark.maintainer.username=JaswalAshish
